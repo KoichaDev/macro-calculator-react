@@ -1,0 +1,118 @@
+[
+  {
+    "kcalLbs": 10,
+    "kcalKg": 22,
+    "sedentary": [
+      {
+        "low": [
+          {
+            "ActivityTrainingDay": 3,
+            "activityMultipler": 1.3
+          }
+        ],
+        "medium": [
+          {
+            "ActivityTrainingDay": 4,
+            "activityMultipler": 1.4
+          }
+        ],
+        "high": [
+          {
+            "ActivityTrainingDay": 5,
+            "activityMultipler": 1.5
+          }
+        ],
+        "veryHigh": [
+          {
+            "ActivityTrainingDay": 6,
+            "activityMultiplier": 1.6
+          }
+        ]
+      }
+    ],
+    "lightActive": [
+      {
+        "low": [
+          {
+            "ActivityTrainingDay": 3,
+            "activityMultipler": 1.5
+          }
+        ],
+        "medium": [
+          {
+            "ActivityTrainingDay": 4,
+            "activityMultipler": 1.6
+          }
+        ],
+        "high": [
+          {
+            "ActivityTrainingDay": 5,
+            "activityMultipler": 1.7
+          }
+        ],
+        "veryHigh": [
+          {
+            "ActivityTrainingDay": 6,
+            "activityMultiplier": 1.8
+          }
+        ]
+      }
+    ],
+    "activePlus": [
+      {
+        "low": [
+          {
+            "ActivityTrainingDay": 3,
+            "activityMultipler": 1.7
+          }
+        ],
+        "medium": [
+          {
+            "ActivityTrainingDay": 4,
+            "activityMultipler": 1.8
+          }
+        ],
+        "high": [
+          {
+            "ActivityTrainingDay": 5,
+            "activityMultipler": 1.9
+          }
+        ],
+        "veryHigh": [
+          {
+            "ActivityTrainingDay": 6,
+            "activityMultiplier": 2.0
+          }
+        ]
+      }
+    ],
+    "veryActive": [
+      {
+        "low": [
+          {
+            "ActivityTrainingDay": 3,
+            "activityMultipler": 1.9
+          }
+        ],
+        "medium": [
+          {
+            "ActivityTrainingDay": 4,
+            "activityMultipler": 2.0
+          }
+        ],
+        "high": [
+          {
+            "ActivityTrainingDay": 5,
+            "activityMultipler": 2.1
+          }
+        ],
+        "veryHigh": [
+          {
+            "ActivityTrainingDay": 6,
+            "activityMultiplier": 2.2
+          }
+        ]
+      }
+    ]
+  }
+]
